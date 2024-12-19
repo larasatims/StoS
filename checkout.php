@@ -199,7 +199,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <section class="navbar">
         <div class="navbar clearfix">
             <div class="logo">
-                <a href="index.php">
+                <a href="index.html">
                     <img src="images/StoS-logo.png" alt="Logo" class="img-responsive">
                 </a>
             </div>

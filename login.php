@@ -32,8 +32,8 @@ if (isset($_POST['login'])) {
             $_SESSION['logged_in'] = true;
             $_SESSION['username'] = $username;
 
-            // Redirect ke halaman utama (index.php)
-            header('Location: index.php');
+            // Redirect ke halaman utama 
+            header('Location: index.html');
             exit();
         } else {
             // Password salah

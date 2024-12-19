@@ -291,7 +291,7 @@ $conn->close();
 
         <!-- Action Buttons -->
         <div class="action-buttons">
-            <a href="index.php" class="action-button primary-button">Back to Home</a>
+            <a href="index.html" class="action-button primary-button">Back to Home</a>
         </div>
     </div>
 
